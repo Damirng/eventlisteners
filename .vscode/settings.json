@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 1.5,
+    "editor.letterSpacing": 0.5,
+    "terminal.integrated.fontSize": 16 
+}
